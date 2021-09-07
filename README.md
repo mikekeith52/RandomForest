@@ -28,4 +28,4 @@ Using the following parameters:
 - `max_depth = 2`
 - `max_featres = 'sqrt'`
 
-An in-sample F1 score of 88.81% and an out-of-sample F1 score of 88% are obtained. With any machine learning model, ideally you hope to obtain an in-sample of accuracy a bit better than an out-of-sample accuracy. That way, you know your model is neither over nor underfit. Use these criteria, the modeling project was a success.
+An in-sample F1 score of 88.81% and an out-of-sample F1 score of 88% are obtained. With any machine learning model, ideally you hope to obtain an in-sample accuracy a bit better than an out-of-sample accuracy. That way, you know your model is neither over nor underfit. Use these criteria, the modeling project was a success.
